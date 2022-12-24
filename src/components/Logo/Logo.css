@@ -1,0 +1,10 @@
+.Tilt {
+    border-radius: 15px;
+    background: linear-gradient(to left, #3dc1c4, #8c33bd);
+    /* box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.25); */
+}
+
+.ma4 {
+    height: 110px;
+    width: 110px;
+}
